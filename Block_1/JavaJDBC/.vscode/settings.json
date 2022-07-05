@@ -1,0 +1,7 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "ojdbc6.jar",
+    "d:\\Programming\\Java Exam\\FullExam_Tarabara\\Block_1\\ojdbc6.jar"
+  ]
+}
